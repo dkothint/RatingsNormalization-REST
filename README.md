@@ -1,5 +1,6 @@
 # RatingsNormalization-REST
 This is a simple web application with RESTful web services to query the results of the ratings normalization application. 
+Link to RatingsNormalization application: https://github.com/dkothint/ratings-normalization
 
 Technologies Used:
 1. This is a spring boot application exposing a couple of web services to extract the results.
